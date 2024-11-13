@@ -1,0 +1,4 @@
+baseURL = 'https://ruhbie.de/'
+languageCode = 'en-us'
+title = 'Ruhbie Website'
+theme ='congo'

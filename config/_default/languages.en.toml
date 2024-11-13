@@ -1,0 +1,11 @@
+# config/_default/languages.en.toml
+
+title = "Craftbeer from Bochum!"
+
+[params.author]
+name = "Dennis"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/username" }
+] 
