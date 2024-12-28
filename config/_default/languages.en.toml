@@ -3,9 +3,6 @@
 title = "Craftbeer from Bochum!"
 
 [params.author]
-name = "Dennis"
-headline = "A generally awesome human"
-bio = "A little bit about me"
-links = [
-  { twitter = "https://twitter.com/username" }
-] 
+name = "Dennis & Julian"
+headline = "Ruhbie - Bochumer Craft Beer"
+bio = "Let's drink!"

@@ -6,11 +6,6 @@
   weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
-  weight = 20
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]
